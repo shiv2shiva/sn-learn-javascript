@@ -8,3 +8,5 @@ gr.query();
 while (gr.next()) {
     gs.info(gr.getValue('number'));
 }
+
+//what's gr?
